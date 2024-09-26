@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "997356717585",
+    "project_id": "kotlininstaclone-681f2",
+    "storage_bucket": "kotlininstaclone-681f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997356717585:android:1f550cf51df6486f7653b0",
+        "android_client_info": {
+          "package_name": "com.akansu.instaclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLedefEpy40Pa-oobbG_4n9RFugKU4Jso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
